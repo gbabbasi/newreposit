@@ -3,4 +3,5 @@ using namespace std;
 int main()
 {
 	cout << "hh";
+	returnh 0;
 }
